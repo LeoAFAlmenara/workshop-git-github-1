@@ -10,4 +10,6 @@
 - Yuri Pires Alves
 ---
 ### Participantes
--
+-Lucas Garcia dos Santos
+-Juliana Kawakami
+
